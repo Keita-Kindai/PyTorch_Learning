@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local archive kept for reference, not intended for GitHub publication.
+archive/original_workspace/
+archive/generated_pycache/
+
+# Experiment logs can be large and noisy.
+runs/
+**/runs/
+
+# Local Gradio/cache files.
+.gradio/
+**/.gradio/
